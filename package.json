@@ -1,0 +1,13 @@
+{
+  "name": "bulyilmaz-http-request",
+  "version": "1.0.0",
+  "description": "HTTP Request Class with Ajax & Promise",
+  "main": "index.js",
+  "keywords": ["HTTP Request", "Ajax", "Promise"],
+  "author": "Bülent YILMAZ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bulyilmaz/bulyilmaz-http-request"
+  }
+}
