@@ -1,6 +1,6 @@
 {
   "name": "bulyilmaz-http-request",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "HTTP Request Class with Ajax & Promise",
   "main": "index.js",
   "keywords": ["HTTP Request", "Ajax", "Promise"],

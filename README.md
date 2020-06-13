@@ -4,13 +4,13 @@
 
 
 ```bash
-npm install bulyilmaz-http-request
+npm install --save bulyilmaz-http-request
 ```
 
 ## Usage
 
 ```javascript
-import HttpRequest from "./HttpRequest";
+import HttpRequest from "bulyilmaz-http-request";
 
 (new HttpRequest())
     .get("https://jsonplaceholder.typicode.com/posts/1")
